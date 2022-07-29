@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [url](https://github.com/elcuatro29/Producto-preview-card-Desktop-and-Mobile-solution---using-HTML-CSS-Flexbox)
+- Live Site URL: [url](https://elcuatro29.github.io/Producto-preview-card-Desktop-and-Mobile-solution---using-HTML-CSS-Flexbox/)
 
 ## My process
 
@@ -57,9 +57,9 @@ I would like to continue developing projects that use FlexBox in order to fully 
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/es/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Resource 1](https://developer.mozilla.org/es/) - This helped me a lot with the Flexbox issue.
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@yourusername](https://twitter.com/malxinfluencia)
 
